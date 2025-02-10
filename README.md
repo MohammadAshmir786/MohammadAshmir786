@@ -6,7 +6,7 @@
 
 <!-- Introduction -->
 <h3 align="center">A passionate Web Dev & AI / ML enthusiasts</h3>
-<p>Hey there! I'm Mohammad Ashmir Abbasi, a passionate full-stack developer & AI / ML enthusiast with an educational background. My journey began with tutoring, and I've since delved deep into web designing and backend development. Transitioning into teaching high school students, I found joy in sharing knowledge. Currently, I'm exploring new avenues in AI / ML, leveraging my diverse skill set to innovate. Let's connect and code together!</p>
+<p>Hey there! I'm Mohammad Ashmir Abbasi, a Passionate web developer and machine learning enthusiast with a strong foundation in Python and PHP. I specialize in building responsive web applications and implementing machine learning algorithms. My projects showcase my skills in deep learning, artificial intelligence, and full-stack development. I am committed to continuous learning and collaboration, contributing to open-source projects and exploring innovative solutions. Check out my repositories to see my work and connect with me!</p>
 
 <!-- GIF -->
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJwZWtiNTIzanFiMDBhdjY5Y3Zycnlqc2t2Zm11NXl6c2t2cTF6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
